@@ -1,0 +1,65 @@
+{
+  "_from": "git+https://github.com/yuriy0803/kawpow-stratum.git",
+  "_id": "stratum-pool@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/stratum-pool",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/yuriy0803/kawpow-stratum.git",
+    "rawSpec": "git+https://github.com/yuriy0803/kawpow-stratum.git",
+    "saveSpec": "git+https://github.com/yuriy0803/kawpow-stratum.git",
+    "fetchSpec": "git+https://github.com/yuriy0803/kawpow-stratum.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/yuriy0803/kawpow-stratum.git",
+  "_spec": "git+https://github.com/yuriy0803/kawpow-stratum.git",
+  "_where": "/home/pool/kawpow-stratum",
+  "author": {
+    "name": "friends Projects"
+  },
+  "bugs": {
+    "url": "https://github.com/yuriy0803/kawpow-stratum/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "friends"
+    }
+  ],
+  "dependencies": {
+    "base58-native": "0.1.4",
+    "big-integer": "1.6.51",
+    "bitcoinjs-lib": "6.0.2",
+    "merkle-bitcoin": "1.0.2",
+    "promise": "8.2.0"
+  },
+  "deprecated": false,
+  "description": "High performance Stratum Server in Node.js for KawPoW algo",
+  "engines": {
+    "node": ">=12.22.12"
+  },
+  "homepage": "https://github.com/yuriy0803/kawpow-stratum",
+  "keywords": [
+    "stratum",
+    "mining",
+    "server",
+    "stratumserver",
+    "Ravencoin",
+    "Neoxa",
+    "KawPoW"
+  ],
+  "license": "GPL-3.0",
+  "main": "lib/index.js",
+  "name": "stratum-pool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriy0803/kawpow-stratum.git"
+  },
+  "version": "1.0.0"
+}
