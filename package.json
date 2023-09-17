@@ -29,7 +29,7 @@
   "bundleDependencies": false,
   "contributors": [
     {
-      "name": "friends"
+      "name": "KawPow-friends"
     }
   ],
   "dependencies": {
@@ -42,7 +42,7 @@
   "deprecated": false,
   "description": "High performance Stratum Server in Node.js for KawPoW algo",
   "engines": {
-    "node": ">=12.22.12"
+    "node": ">=16.13.0"
   },
   "homepage": "https://github.com/yuriy0803/kawpow-stratum",
   "keywords": [
